@@ -27,6 +27,7 @@ amp_factor = 1  # in dB (how easy to detect, higher is easier)
 
 trial_f = "out/challenge.wav"
 diff_f = "out/sanitycheck.wav"
+os.makedirs("out", exist_ok=True)
 
 #morse settings (in seconds)
 dot_pulse = 0.05
