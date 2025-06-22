@@ -3,7 +3,7 @@
 
 ---
 
-### Demo Video -> [Youtube | sonistream](https://www.youtube.com/watch?v=)
+### Demo Video -> [Youtube | sonistream](https://youtu.be/KtCTDkwWSJI)
 Music selection: [Doing Damage by Dollshade](https://www.bensound.com/royalty-free-music/track/doing-damage-energic-rock)
 
 ## Sections
